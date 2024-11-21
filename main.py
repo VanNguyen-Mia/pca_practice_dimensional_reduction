@@ -1,5 +1,5 @@
 import os
-from src.main import load_data, preprocess, apply_pca
+from src.module_1 import load_data, preprocess, apply_pca
 
 # Define dataset path and save path
 dataset_path = "./dataset/Breast_GSE45827.csv"
