@@ -2,7 +2,7 @@ import os
 from src.main import load_data, preprocess, apply_pca
 
 # Define dataset path and save path
-dataset_path = "./dataset/Breast_GSE45827.csv"  # Replace with actual path
+dataset_path = "./dataset/Breast_GSE45827.csv"
 save_path = "./results"
 
 # Step 1: Load Data
